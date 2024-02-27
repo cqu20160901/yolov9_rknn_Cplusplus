@@ -2,6 +2,8 @@
 
 yolov9 瑞芯微 rknn 板端 C++部署，使用平台 rk3588。模型转换参考 [【yolov9 瑞芯微芯片rknn部署、地平线芯片Horizon部署、TensorRT部署】](https://blog.csdn.net/zhangqian_1/article/details/136321979)  。
 
+模型文件比较大存放路径[【rknn模型链接】](https://github.com/cqu20160901/yolov9_rknn_Cplusplus/releases/tag/v1.0.0)
+
 ## 编译和运行
 
 1）编译
