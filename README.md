@@ -20,7 +20,7 @@ bash build-linux_RK3588.sh
 ```
 cd install/rknn_yolov9_demo_dfl_open
 
-./rknn_yolov8_demo
+./rknn_yolov9_demo
 
 ```
 
